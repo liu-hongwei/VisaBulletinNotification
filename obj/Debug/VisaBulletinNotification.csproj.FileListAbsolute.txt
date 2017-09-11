@@ -1,0 +1,11 @@
+C:\VisaBulletinNotification\bin\Debug\log4net.config
+C:\VisaBulletinNotification\bin\Debug\VisaBulletinNotification.exe.config
+C:\VisaBulletinNotification\bin\Debug\VisaBulletinNotification.exe
+C:\VisaBulletinNotification\bin\Debug\VisaBulletinNotification.pdb
+C:\VisaBulletinNotification\bin\Debug\HtmlAgilityPack.dll
+C:\VisaBulletinNotification\bin\Debug\log4net.dll
+C:\VisaBulletinNotification\bin\Debug\HtmlAgilityPack.pdb
+C:\VisaBulletinNotification\bin\Debug\HtmlAgilityPack.xml
+C:\VisaBulletinNotification\bin\Debug\log4net.xml
+C:\VisaBulletinNotification\obj\Debug\VisaBulletinNotification.exe
+C:\VisaBulletinNotification\obj\Debug\VisaBulletinNotification.pdb
